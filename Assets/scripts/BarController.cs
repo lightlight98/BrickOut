@@ -9,7 +9,7 @@ public class bar : MonoBehaviour
     public float moveSpeed = 5.0f;
     public float minX = -3.197f;
     public float maxX = 3.197f;
-    private float[] angles = { -60, -45, -30, -15, 0, 15, 30, 45, 60 };
+    private float[] angles = { -60, -45, -30, -15,  15, 30, 45, 60 };
 
 
     // Start is called before the first frame update
